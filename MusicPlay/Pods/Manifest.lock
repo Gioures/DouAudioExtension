@@ -1,0 +1,16 @@
+PODS:
+  - DOUAudioStreamer (0.2.15)
+
+DEPENDENCIES:
+  - DOUAudioStreamer
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - DOUAudioStreamer
+
+SPEC CHECKSUMS:
+  DOUAudioStreamer: 14f217bab01b52171fc2bd7d96e1f8fdd50fce68
+
+PODFILE CHECKSUM: 41de37182dc9f6d37200e34bf02b5c56d0f447f5
+
+COCOAPODS: 1.5.0
